@@ -1,0 +1,153 @@
+[
+    {
+        "playerId": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "countryFlag": "https://example.com/flags/india.png",
+        "image": "https://cdn.britannica.com/48/252748-050-C514EFDB/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": 1500
+    },
+    {
+        "playerId": 2,
+        "name": "Pat Cummins",
+        "country": "Australia",
+        "countryFlag": "https://example.com/flags/australia.png",
+        "image": "https://media.gettyimages.com/id/1799783291/photo/india-australia-net-sessions-icc-mens-cricket-world-cup-india-2023.jpg?s=2048x2048&w=gi&k=20&c=jNoJluhuM6dFzU9kMvS_V2ALUd1aBByhd-IEM6E5Bak=",
+        "role": "Bowler",
+        "battingType": "Right-arm fast",
+        "biddingPrice": 120000
+    },
+    {
+        "playerId": 3,
+        "name": "Jos Buttler",
+        "country": "England",
+        "countryFlag": "https://example.com/flags/england.png",
+        "image": "https://static.independent.co.uk/2022/11/12/07/4a655b514a0538cc8b0bb6e7b1cabefeY29udGVudHNlYXJjaGFwaSwxNjY4MzE5MTg5-2.69703789.jpg",
+        "role": "Wicketkeeper Batsman",
+        "battingType": "Right-hand bat",
+        "biddingPrice": 100000
+    },
+    {
+        "playerId": 4,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "countryFlag": "https://example.com/flags/afghanistan.png",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2jSAKDzMtBA6e6ruUvauRRM6PpXNmiw--qQ&s",
+        "role": "Bowler",
+        "battingType": "All-Rounder",
+        "biddingPrice": 90000
+    },
+    {
+        "playerId": 5,
+        "name": "Ben Stokes",
+        "country": "England",
+        "countryFlag": "https://example.com/flags/england.png",
+        "image": "https://e0.365dm.com/22/06/2048x1152/skysports-pa-ben-stokes-england_5805019.jpg?20220614201751",
+        "role": "All-rounder",
+        "battingType": "All-Rounder",
+        "biddingPrice": 140000
+    },
+    {
+        "playerId": 6,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "countryFlag": "https://example.com/flags/new_zealand.png",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/383100/383103.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "biddingPrice": 110000
+    },
+    {
+        "playerId": 7,
+        "name": "Trent Boult",
+        "country": "New Zealand",
+        "countryFlag": "https://example.com/flags/new_zealand.png",
+        "image": "https://i.pinimg.com/736x/0c/bb/36/0cbb3600ab7bd79ba167f9a2fa7483d7.jpg",
+        "role": "Bowler",
+        "battingType": "Left-arm fast medium",
+        "biddingPrice": 90000
+    },
+    {
+        "playerId": 8,
+        "name": "David Warner",
+        "country": "Australia",
+        "countryFlag": "https://example.com/flags/australia.png",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzA3N2UyZDktNmZiNC00MTk3LWE0MTYtOTExYTQzZTliMTE4XkEyXkFqcGc@._V1_.jpg",
+        "role": "Batsman",
+        "battingType": "Left-hand bat",
+        "biddingPrice": 130000
+    },
+    {
+        "playerId": 9,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "countryFlag": "https://example.com/flags/bangladesh.png",
+        "image": "https://images.prothomalo.com/prothomalo-english%2F2023-08%2F69852014-e194-4504-a669-bc4d1e06cae3%2Fprothomalo_bangla_2023_08_5cf9b0f5_9e86_48a2_be2b_f3532f1b0504_Shakib_reacts_after_taking_Rasid_Khan.webp?rect=0%2C0%2C900%2C473&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
+        "role": "All-rounder",
+        "battingType": "All-Rounder",
+        "biddingPrice": 80000
+    },
+    {
+        "playerId": 10,
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "countryFlag": "https://example.com/flags/south_africa.png",
+        "image": "https://wallpapers.com/images/featured/quinton-de-kock-361uofvid8etxpts.jpg",
+        "role": "Wicketkeeper Batsman",
+        "battingType": "Left-hand bat",
+        "biddingPrice": 95000
+    },
+    {
+        "playerId": 11,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "countryFlag": "https://example.com/flags/pakistan.png",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4VhjeYalkaGABOwgLsakUcfxvggitgeWr6Q&s",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "biddingPrice": 125000
+    },
+    {
+        "playerId": 12,
+        "name": "Andre Russell",
+        "country": "West Indies",
+        "countryFlag": "https://example.com/flags/west_indies.png",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5DC_on6FmSBFvynu6INQn4WEwFLhLkCcUNxi7u4WrGbItotRKs6PwursaTsPxjIf8k4&usqp=CAU",
+        "role": "All-rounder",
+        "battingType": "All-Rounder",
+        "biddingPrice": 100000
+    },
+    {
+        "playerId": 13,
+        "name": "Mujeeb Ur Rahman",
+        "country": "Afghanistan",
+        "countryFlag": "https://example.com/flags/afghanistan.png",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbPbzjyng16UeQyKs9RRtPnGRdhRaXoiBgEnV5cxoQZXqnCYcDOZZsDwmSQhZ6Wrf9WCk&usqp=CAU",
+        "role": "Bowler",
+        "battingType": "Bowler",
+        "biddingPrice": 750000
+    },
+    {
+        "playerId": 14,
+        "name": "Steve Smith",
+        "country": "Australia",
+        "countryFlag": "https://example.com/flags/australia.png",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDVvgIxoJNK-UGI4yjsvYYVRyjgivG2gCTQA&s",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "biddingPrice": 120000
+    },
+    {
+        "playerId": 15,
+        "name": "Shaheen Afridi",
+        "country": "Pakistan",
+        "countryFlag": "https://example.com/flags/pakistan.png",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWMeZSDMH_CXWldm3ntMz_JUB9Dhnmm3kWA&s",
+        "role": "Bowler",
+        "battingType": "Fast-Bowler",
+        "biddingPrice": 110000
+    }
+]
